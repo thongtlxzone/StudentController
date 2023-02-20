@@ -1,0 +1,3 @@
+#noi khai bao thong tin lien quan toi cau hinh cua tat ca thu vien
+server:
+  port: 8083
